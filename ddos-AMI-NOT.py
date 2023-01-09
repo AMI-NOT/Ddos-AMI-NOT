@@ -22,7 +22,7 @@ print(Fore.RED+'         GITHUB : https://github.com/AMI-NOT')
 print(Fore.BLUE+'■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□')
 print(Fore.WHITE+'           ddoser in site                                                  AMI-NOT   ')
 print("                                                                                                                                                                                     ")
-
+print("                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ")
 
 
 password = input("enter youre pass : ")
