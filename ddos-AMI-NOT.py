@@ -3,6 +3,7 @@
 from colorama import init, Fore
 init()
 from random import choice, randint
+print("                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ")
 print("AMI-NOT")
 print(Fore.RED+'                   ●○●○●○●○●○●○●○●○●○●○●○●')
 print(Fore.RED+'                   ○                     ●')
